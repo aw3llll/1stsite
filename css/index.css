@@ -1,0 +1,27 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    background-image: linear-gradient(to bottom right,#533483, #E94560);
+}
+.text{
+    font-weight: 300;
+    padding-bottom:1000px;
+    color: rgb(162, 113, 183);
+}
+.flexbox{
+    display: flex;
+  
+}
+.def_button{
+    margin-left: 500px;
+    font-size: 16px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 16px;
+    border: 1px;
+    border-color: #E94560;
+    background-color: #FF7F3F;
+}
